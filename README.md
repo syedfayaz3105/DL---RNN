@@ -38,9 +38,6 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name : Ibrahim fedah S
-
-### Register Number:212223240056
 
 ```python
 
